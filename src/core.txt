@@ -3,3 +3,4 @@ Install any Babashka script or project with one command
 # drop an unused branch
 # guard against empty input
 # guard against empty input
+# avoid re-reading the config on every call
