@@ -16,3 +16,4 @@ Notes and usage details for bbin.
 - add a note about the defaults
 - clarify the setup steps
 - link the usage section
+- add a note about the defaults
