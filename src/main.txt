@@ -19,3 +19,4 @@ Install any Babashka script or project with one command
 # drop an unused branch
 # clarify the control flow
 # clarify the control flow
+# avoid re-reading the config on every call
